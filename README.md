@@ -44,20 +44,14 @@
 
 <h2 align="center">🎯 Featured Projects</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-  <a href="https://github.com/Sahil-K712/FoodieQR" style="text-decoration: none;">
-    <div style="width: 320px; margin: 0.5rem;">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=FoodieQR&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
-    </div>
+<p align="center">
+  <a href="https://github.com/Sahil-K712/FoodieQR" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=FoodieQR&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
   </a>
-
   <a href="https://github.com/Sahil-K712/Sample-repo" style="text-decoration: none;">
-    <div style="width: 320px; margin: 0.5rem;">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=Sample-repo&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
-    </div>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=Sample-repo&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
   </a>
-</div>
+</p>
 
 <h2 align="center">🤝 Let's Connect</h2>
 <br>
