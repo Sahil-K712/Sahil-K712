@@ -23,10 +23,10 @@
 
 <div align="center">
   <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs" />
   
   <h3>Styling & Design</h3>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,bootstrap,css" />
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,bootstrap,css" />
   
   <h3>Tools & Others</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase" />
@@ -48,8 +48,8 @@
   <a href="https://github.com/Sahil-K712/FoodieQR" style="text-decoration: none; margin-right: 10px;">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=FoodieQR&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
   </a>
-  <a href="https://github.com/Sahil-K712/Sample-repo" style="text-decoration: none;">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=Sample-repo&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
+  <a href="https://github.com/Sahil-K712/Yogasana" style="text-decoration: none;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sahil-K712&repo=Yogasana&theme=react&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&hide_border=true&show_icons=true" />
   </a>
 </p>
 
@@ -59,13 +59,13 @@
   <a href="https://github.com/Sahil-K712">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-a9ovgfzxa-sahils-projects-7cdf7e66.vercel.app/">
+  <a href="https://my-portfolio-sahils-projects-7cdf7e66.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
     <a href="www.linkedin.com/in/sahil-k-b9945234b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:sahilkadavekar444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
