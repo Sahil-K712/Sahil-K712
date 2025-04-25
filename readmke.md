@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=140&section=header&text=Hi,%20I'm%20Sahil%20Kadavekar&fontSize=55&animation=twinkling&fontColor=FFFFFF&fontAlignY=30&desc=Frontend%20Developer%20|%20Backend%20Curious&descAlignY=75&descAlign=50&descSize=25)
+  ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=110&section=header&text=Hi,%20I'm%20Sahil%20Kadavekar&fontSize=55&animation=twinkling&fontColor=FFFFFF&fontAlignY=30&desc=Frontend%20Developer%20|%20Backend%20Curious&descAlignY=75&descAlign=50&descSize=25)
 
 </div>
 
@@ -22,14 +22,34 @@
 <div align="center">
   <table>
     <tr align="center">
-      <td width="33%"><strong>Frontend & Backend</strong></td>
-      <td width="33%"><strong>Styling</strong></td>
-      <td width="33%"><strong>Tools</strong></td>
+      <td><strong>Frontend & Backend</strong></td>
+      <td><strong>Styling</strong></td>
+      <td><strong>Tools</strong></td>
     </tr>
     <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs" style="max-width:100%"/></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,bootstrap" style="max-width:100%"/></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase" style="max-width:100%"/></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html" width="40" />
+        <img src="https://skillicons.dev/icons?i=css" width="40" />
+        <img src="https://skillicons.dev/icons?i=js" width="40" />
+        <img src="https://skillicons.dev/icons?i=ts" width="40" />
+        <img src="https://skillicons.dev/icons?i=react" width="40" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+        <img src="https://skillicons.dev/icons?i=vite" width="40" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+        <img src="https://skillicons.dev/icons?i=materialui" width="40" />
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="40" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git" width="40" />
+        <img src="https://skillicons.dev/icons?i=github" width="40" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+        <img src="https://skillicons.dev/icons?i=npm" width="40" />
+        <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+      </td>
     </tr>
   </table>
 </div>
@@ -52,12 +72,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Sahil-K712/Yogasana">
-    <img src="https://img.shields.io/badge/🧘%20Yogasana-AI--powered%20yoga%20pose%20detection%20app-00FFFF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="Yogasana" />
+    <img src="https://img.shields.io/badge/🧘%20Yogasana-Gamified%20wellness%20platform%-00FFFF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="Yogasana" />
   </a>
 </div>
 
 <h2 align="center">🤝 Let's Connect</h2>
-<br>
 <div align="center">
   <a href="https://my-portfolio-sahils-projects-7cdf7e66.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -70,17 +89,11 @@
   </a>
 </div>
 
-<br>
-
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
   <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K712&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-<div align="center">
-
-<br>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=FFFFFF&animation=twinkling&reversal=true)
-
+<div align="center">  
+  ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=FFFFFF&animation=twinkling&reversal=true)
 </div>
