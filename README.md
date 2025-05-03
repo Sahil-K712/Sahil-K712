@@ -56,6 +56,16 @@
   </a>
 </div>
 
+<br>
+
+
+
+
+<h2 align="center">📈 Contribution Graph</h2>
+<div align="center">
+  <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K712&theme=react-dark&hide_border=true&area=true" />
+</div>
+
 <h2 align="center">🤝 Let's Connect</h2>
 <br>
 <div align="center">
@@ -72,10 +82,7 @@
 
 <br>
 
-<h2 align="center">📈 Contribution Graph</h2>
-<div align="center">
-  <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-K712&theme=react-dark&hide_border=true&area=true" />
-</div>
+
 
 <div align="center">
 
