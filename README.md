@@ -19,20 +19,11 @@
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
-<div align="center">
-  <table>
-    <tr align="center">
-      <td width="33%"><strong>Frontend & Backend</strong></td>
-      <td width="33%"><strong>Styling</strong></td>
-      <td width="33%"><strong>Tools</strong></td>
-    </tr>
-    <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs" style="max-width:100%"/></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,bootstrap" style="max-width:100%"/></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,npm,firebase" style="max-width:100%"/></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,vite&perline=8&size=35" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,bootstrap,git,github,vscode,npm,firebase,postman&perline=10&size=35" />
+</p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
@@ -52,14 +43,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Sahil-K712/Yogasana">
-    <img src="https://img.shields.io/badge/🧘%20Yogasana-AI--powered%20yoga%20pose%20detection%20app-00FFFF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="Yogasana" />
+    <img src="https://img.shields.io/badge/🧘%20Yogasana-Gamified%20yoga%20wellness%20platform%20app-00FFFF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="Yogasana" />
   </a>
 </div>
 
 <br>
-
-
-
 
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
@@ -81,8 +69,6 @@
 </div>
 
 <br>
-
-
 
 <div align="center">
 
