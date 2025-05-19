@@ -43,7 +43,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Sahil-K712/Yogasana">
-    <img src="https://img.shields.io/badge/🧘%20Yogasana-Gamified%20yoga%20wellness%20platform%20app-00FFFF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="Yogasana" />
+    <img src="https://img.shields.io/badge/🧘%20Yogasana-Gamified%20%20wellness%20platform%20-00FFFF?style=for-the-badge&labelColor=0D1117&logoColor=white" alt="Yogasana" />
   </a>
 </div>
 
