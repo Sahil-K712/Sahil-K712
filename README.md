@@ -20,9 +20,7 @@
 <h2 align="center">⚡ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,vite&perline=8&size=35" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,bootstrap,git,github,vscode,npm,firebase,postman&perline=10&size=35" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,mongodb,express,vite,tailwind,materialui,styledcomponents,bootstrap,git,github,netlify,vscode,vercel,npm,firebase,postman&perline=11&size=35" />
 </p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
